@@ -1,10 +1,10 @@
 # AndroidTest
 
-## ViewFlipper
+## ViewFlipper [code](/app/src/main/java/com/nstd/testlayout/activity/ViewFlipperActivity.java)
 ![ViewFlipper](/sample-img/ViewFlipper.gif)
 
-## AdapterViewFlipper
+## AdapterViewFlipper [code](/app/src/main/java/com/nstd/testlayout/activity/AdapterViewFlipperActivity.java)
 ![AdapterViewFlipper](/sample-img/AdapterViewFlipper.gif)
 
-## GradientArgbEvaluator
+## GradientArgbEvaluator [code](/app/src/main/java/com/nstd/testlayout/activity/GradientArgbEvaluateActivity.java)
 ![GradientArgbEvaluator](/sample-img/GradientArgbEvaluator.gif)
