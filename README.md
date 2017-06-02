@@ -1,10 +1,10 @@
 # AndroidTest
 
 ## ViewFlipper
-![ViewFlipper](/smaple-img/ViewFlipper.gif)
+![ViewFlipper](/sample-img/ViewFlipper.gif)
 
 ## AdapterViewFlipper
 ![AdapterViewFlipper](/sample-img/AdapterViewFlipper.gif)
 
 ## GradientArgbEvaluator
-![GradientArgbEvaluator](/sample-img/AdapterViewFlipper.gif)
+![GradientArgbEvaluator](/sample-img/GradientArgbEvaluator.gif)
